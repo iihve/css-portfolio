@@ -1,2 +1,2 @@
 # css-portfolio
-This is another Portfolio to chec what can be done using CSS 
+This is another Portfolio to check what can be done using CSS 
